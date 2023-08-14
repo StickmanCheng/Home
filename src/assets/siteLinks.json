@@ -4,4 +4,9 @@
     "name": "博客",
     "link": "https://blog.teikochi.top/"
   }
+  {
+    "icon": "Blog",
+    "name": "备忘录",
+    "link": "https://memo.teikochi.top/"
+  }
 ]
